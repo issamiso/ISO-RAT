@@ -15,3 +15,6 @@ cd ISO-RAT
 chmod +x *
 bash kali.sh 
 ```
+
+<div>
+<img src="https://github.com/issamiso/ISO-RAT/blob/main/image.png" width = "300"
