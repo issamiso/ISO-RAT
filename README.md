@@ -17,4 +17,4 @@ bash kali.sh
 ```
 
 <div>
-<img src="https://github.com/issamiso/ISO-RAT/blob/main/image.png" width = "300"
+<img src="https://github.com/issamiso/ISO-RAT/blob/main/image.png" width = "300" >
